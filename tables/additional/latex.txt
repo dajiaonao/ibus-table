@@ -87,6 +87,7 @@ BEGIN_TABLE
 \circ	∘	0
 \circ	°	0
 \pm	±	0
+\minus	−	0
 \acute	´	0
 \P	¶	0
 \cdot	·	0
